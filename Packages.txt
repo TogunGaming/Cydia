@@ -1,0 +1,156 @@
+Package: net.angelxwind.airspeaker
+Version: 1.4.6
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 5696
+Depends: preferenceloader, net.angelxwind.karenprefs (>= 1.3)
+Filename: ./debs/nodelete-net.angelxwind.airspeaker.deb
+Size: 5803832
+MD5sum: fd3720e59f4557b1fa5b696b0f29db98
+SHA1: 4c90e3603c166f0e1681833f494bcdb116d67c14
+SHA256: b951bbe45b97a120d4ed2a68b4258614a949bf5292be72f7240c643e615369c6
+Section: Utilities
+Description: Use your iOS device as an AirPlay speaker!
+Author: Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.airspeaker
+Icon: ./RepoIcons/net.angelxwind.airspeaker.png
+Name: AirSpeaker
+
+Package: net.angelxwind.appsync40plus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
+Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: ./debs/net.angelxwind.appsync40plus.deb
+Size: 9202
+MD5sum: 4450d7c556bdf0504b14d678da5e5362
+SHA1: 7b0040049afef1d0309c108bcf0a7ed9d19921d4
+SHA256: 0d20fd163cfa37f4e63f054516d9b7c0f68801cf517594dbe2145faf50c5c8a7
+Section: Tweaks
+Description: AppSync for iOS 4 allows you to sync and install unsigned iOS applications. Only for iOS 4.
+Author: Karen/あけみ, Dissident <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsync40plus
+Name: AppSync for iOS 4.0
+
+Package: net.angelxwind.appsync50plus
+Version: 9999.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ
+Depends: ai.akemi.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsync50plus.deb
+Size: 674
+MD5sum: 30f2d771faec08a90f46e9ea9bcca388
+SHA1: a6c3ff380451876f86f468a9847e22dd4cf0af4a
+SHA256: ab430c3e7b2c8938916b0fb1be734b2247f5d3b630c53acda190887f7e7b267e
+Section: Tweaks
+Description: Transitional package for AppSync Unified.
+
+Author: Karen/あけみ
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional-legacy
+Name: AppSync Unified Transitional Package (50plus)
+
+Package: net.angelxwind.appsync60plus
+Version: 9999.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ
+Depends: ai.akemi.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsync60plus.deb
+Size: 676
+MD5sum: 3f09d5e61f2619367e904b517f08be36
+SHA1: 5bb1517325f29f95b3e5c5a15f8320de4a15b57e
+SHA256: 9e459c23fe9052bfe27cda8e7fc54ecf1b465a272c909024462c7bf7a420a23a
+Section: Tweaks
+Description: Transitional package for AppSync Unified.
+
+Author: Karen/あけみ
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional-legacy
+Name: AppSync Unified Transitional Package (60plus)
+
+Package: net.angelxwind.appsync70plus
+Version: 9999.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ
+Depends: ai.akemi.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsync70plus.deb
+Size: 676
+MD5sum: 1b60483d38c4e65daf5bc2dab18365d5
+SHA1: 61836f403c49578e5d8ab0e1ac69c4248ffdc355
+SHA256: 4788595238c8b0ef9f3060ff9677d4e67bbc3d5315ea681845e5eed6bcae7f23
+Section: Tweaks
+Description: Transitional package for AppSync Unified.
+
+Author: Karen/あけみ
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional-legacy
+Name: AppSync Unified Transitional Package (70plus)
+
+Package: net.angelxwind.appsyncunified
+Version: 9999.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ
+Depends: ai.akemi.appsyncunified
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 654
+MD5sum: f3401bbdad441c2ce15fc5a4e20f6218
+SHA1: 3715f461e20b4f2491bcc248d5055d538f8ecc71
+SHA256: df20a626b2e7899b467583396f8ea8ba220edaf13c519871c4fe9a7422087fda
+Section: Tweaks
+Description: Transitional package for AppSync Unified.
+
+Author: Karen/あけみ
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional
+Name: AppSync Unified Transitional Package
+
+Package: net.angelxwind.bettergooglemaps
+Version: 99.99
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.bettergooglemaps.deb
+Size: 714
+MD5sum: 338b5534edef8238c5214dc16284c375
+SHA1: fe7ccc061477b6f83a51f40a58f982f38ba2d56c
+SHA256: 8f9bffe6067c75381392f55e8a1f60152472a8e3c0551f73f57b1d7d4f877f49
+Section: Tweaks
+Description: Transitional package for mikoto.
+
+Author: Karen/あけみ
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.mikoto-transitional
+Name: Better Google Maps (mikoto)
+
+Package: net.angelxwind.betteryoutube
+Version: 99.99
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ
+Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
+Filename: ./debs/nodelete-net.angelxwind.betteryoutube.deb
+Size: 712
+MD5sum: eb18ef504c60d8ff3e5414705d241b66
+SHA1: 64d2c2bf709f5724d922038ac0aab0cb42c8d638
+SHA256: 869b58b092918e87eeddec162d8c4afc15bb4b3aa853dc2d0c80931e01ee5f91
+Section: Tweaks
+Description: Transitional package for mikoto.
+Author: Karen/あけみ
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.mikoto-transitional
+Name: Better YouTube (mikoto)
+
+Package: net.angelxwind.mikoto
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 15548
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Conflicts: com.xcxiao.simplelsios10
+Filename: ./debs/nodelete-net.angelxwind.mikoto.deb
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
+SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
+Section: Tweaks
+Description: Comprehensive iOS System/App Store App customisation suite
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mikoto
+Icon: ./RepoIcons/net.angelxwind.mikoto.png
+Name: mikoto

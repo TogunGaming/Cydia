@@ -1,0 +1,14 @@
+Package: eu.togun.testpkg
+Name: TestPkg
+Version: 1.0.0
+Architecture: iphone-os-arm
+Description: Test Package
+Maintainer: notgonna@leakmy.email
+Author: notgonna@leakmy.email
+Section: Tweak
+Depends: 
+Filename: debs/testpkg.deb
+Size: 0
+MD5sum: 3238792f1226ca188585c1503eaefd3e
+SHA1: 155905355fd9f0bebd3596716cd28bd8eeffe675
+SHA256: b8b35626349a7902c097d015bb874626481470da1cfd883dff35160a6aee9e77

@@ -3,8 +3,8 @@ Name: TestPkg
 Version: 1.0.0
 Architecture: iphone-os-arm
 Description: Test Package
-Maintainer: notgonna@leakmy.email
-Author: notgonna@leakmy.email
+Maintainer: vylizmi.icloud.com
+Author: vylizmi.icloud.com
 Section: Tweak
 Depends: 
 Filename: debs/testpkg.deb

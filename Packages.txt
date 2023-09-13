@@ -47,7 +47,6 @@ SHA1: a6c3ff380451876f86f468a9847e22dd4cf0af4a
 SHA256: ab430c3e7b2c8938916b0fb1be734b2247f5d3b630c53acda190887f7e7b267e
 Section: Tweaks
 Description: Transitional package for AppSync Unified.
-
 Author: Karen/あけみ
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional-legacy
 Name: AppSync Unified Transitional Package (50plus)
@@ -64,7 +63,6 @@ SHA1: 5bb1517325f29f95b3e5c5a15f8320de4a15b57e
 SHA256: 9e459c23fe9052bfe27cda8e7fc54ecf1b465a272c909024462c7bf7a420a23a
 Section: Tweaks
 Description: Transitional package for AppSync Unified.
-
 Author: Karen/あけみ
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional-legacy
 Name: AppSync Unified Transitional Package (60plus)
@@ -81,7 +79,6 @@ SHA1: 61836f403c49578e5d8ab0e1ac69c4248ffdc355
 SHA256: 4788595238c8b0ef9f3060ff9677d4e67bbc3d5315ea681845e5eed6bcae7f23
 Section: Tweaks
 Description: Transitional package for AppSync Unified.
-
 Author: Karen/あけみ
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional-legacy
 Name: AppSync Unified Transitional Package (70plus)
@@ -98,7 +95,6 @@ SHA1: 3715f461e20b4f2491bcc248d5055d538f8ecc71
 SHA256: df20a626b2e7899b467583396f8ea8ba220edaf13c519871c4fe9a7422087fda
 Section: Tweaks
 Description: Transitional package for AppSync Unified.
-
 Author: Karen/あけみ
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified-transitional
 Name: AppSync Unified Transitional Package
@@ -115,7 +111,6 @@ SHA1: fe7ccc061477b6f83a51f40a58f982f38ba2d56c
 SHA256: 8f9bffe6067c75381392f55e8a1f60152472a8e3c0551f73f57b1d7d4f877f49
 Section: Tweaks
 Description: Transitional package for mikoto.
-
 Author: Karen/あけみ
 Depiction: https://cydia.akemi.ai/?page/net.angelxwind.mikoto-transitional
 Name: Better Google Maps (mikoto)
